@@ -27,3 +27,6 @@ Completed:
 
 ### GitHub
 In Progress
+
+### Branch Practice
+This update was made on a separate branch.
